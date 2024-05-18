@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Hussain</h1>
-<h3 align="center">A Aspiring MERN stack developer</h3>
+<h3 align="center">Aspiring MERN stack developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
